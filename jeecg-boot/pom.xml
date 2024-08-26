@@ -44,7 +44,7 @@
 		<pegdown.version>1.6.0</pegdown.version>
 		<knife4j-spring-boot-starter.version>4.4.0</knife4j-spring-boot-starter.version>
 		<!-- 数据库驱动 -->
-		<postgresql.version>42.2.25</postgresql.version>
+		<postgresql.version>42.7.3</postgresql.version>
 		<ojdbc6.version>11.2.0.3</ojdbc6.version>
 		<sqljdbc4.version>4.0</sqljdbc4.version>
 		<mysql-connector-java.version>8.0.27</mysql-connector-java.version>
